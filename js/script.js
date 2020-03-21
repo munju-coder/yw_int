@@ -42,6 +42,7 @@ $( document ).ready( function() {
         }
         a++;
     }); 
+    
     $( window ).resize(function() {
         //console.log($( window ).width());
         var width = $( window ).width();
